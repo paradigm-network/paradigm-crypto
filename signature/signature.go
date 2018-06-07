@@ -11,8 +11,8 @@ import (
 
 	"golang.org/x/crypto/ed25519"
 
-	"github.com/paragidm-network/paradigm-crypto/ec"
-	"github.com/paragidm-network/paradigm-crypto/sm2"
+	"github.com/paradigm-network/paradigm-crypto/ec"
+	"github.com/paradigm-network/paradigm-crypto/sm2"
 )
 
 type Signature struct {

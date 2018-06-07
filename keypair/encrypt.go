@@ -7,7 +7,7 @@ import (
 
 	"golang.org/x/crypto/ed25519"
 	"golang.org/x/crypto/scrypt"
-	"github.com/paragidm-network/paradigm-crypto/ec"
+	"github.com/paradigm-network/paradigm-crypto/ec"
 )
 
 // ProtectedKey stores the encrypted private key and related data

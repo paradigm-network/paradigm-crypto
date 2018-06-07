@@ -12,7 +12,7 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/paragidm-network/paradigm-crypto/sm3"
+	"github.com/paradigm-network/paradigm-crypto/sm3"
 )
 
 const DIGESTLEN = 32

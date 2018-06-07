@@ -9,7 +9,7 @@ import (
 	"reflect"
 
 	"golang.org/x/crypto/ed25519"
-	"github.com/paragidm-network/paradigm-crypto/ec"
+	"github.com/paradigm-network/paradigm-crypto/ec"
 )
 
 type PublicKey crypto.PublicKey

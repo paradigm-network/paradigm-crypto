@@ -12,7 +12,7 @@ import (
 	_ "crypto/sha512"
 	_ "golang.org/x/crypto/ripemd160"
 	_ "golang.org/x/crypto/sha3"
-	"github.com/paragidm-network/paradigm-crypto/sm3"
+	"github.com/paradigm-network/paradigm-crypto/sm3"
 )
 
 type SignatureScheme byte
